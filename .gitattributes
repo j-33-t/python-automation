@@ -3,5 +3,7 @@
 09_jupyter_papermill/template/* linguist-language=Python
 Challenge 1/* linguist-language=Python
 
-09_jupyter_papermill/reports_html/* linguist-documentation
-09_jupyter_papermill/reports_pdf/* linguist-documentation
+09_jupyter_papermill/reports_html/** linguist-documentation
+09_jupyter_papermill/reports_pdf/** linguist-documentation
+
+
